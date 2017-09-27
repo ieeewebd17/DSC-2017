@@ -30,9 +30,14 @@ Version: 1.0
 /*--------------------*/
 /* BASIC TYPOGRAPHY */
 /*--------------------*/
-#head-logo{
+.head-logo-1{
 	width: 5em;
 	height: 2em;
+	margin-top: -0.2em
+}
+.head-logo-2{
+	width: 3em;
+	height: 1em;
 	margin-top: -0.65em
 }
 body,
