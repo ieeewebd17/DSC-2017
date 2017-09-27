@@ -30,7 +30,11 @@ Version: 1.0
 /*--------------------*/
 /* BASIC TYPOGRAPHY */
 /*--------------------*/
-
+#head-logo{
+	width: 5em;
+	height: 2em;
+	margin-top: -0.65em
+}
 body,
 html {
 	overflow-x:hidden;
